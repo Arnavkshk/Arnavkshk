@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/arnavkshk" target="blank"><img src="https://img.shields.io/twitter/follow/arnavkshk?logo=twitter&style=for-the-badge" alt="arnavkshk" /></a> </p>
 
-- 🔭 I’m currently working on [#100DaysOfCode](https://github.com/Arnavkshk/-100DaysOf-Code-)
+- 🔭 I’m currently working on C++
 
 - 🌱 I’m currently learning **Android Development**
 
