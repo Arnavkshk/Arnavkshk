@@ -19,7 +19,7 @@ I am constantly striving to improve myself, My goal is to become a better versio
 
 - 🌱 I’m currently learning **ReactJS**
 
-- 💬 Ask me about **Android Development, Web Development, Game Development**
+- 💬 Ask me about **Android Development , Web Development , Game Development**
 
 - 📫 How to reach me **arnav22112003@gmail.com**
 
