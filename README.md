@@ -42,5 +42,5 @@ I am constantly striving to improve myself, My goal is to become a better versio
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=arnavkshk&theme=nord)  
 
-![Metrics](https://metrics.lecoq.io/arnavkshk?template=classic&config.timezone=Asia%2FCalcutta)
 
+![Metrics](https://metrics.lecoq.io/arnavkshk?template=classic&config.timezone=Asia%2FCalcutta)
